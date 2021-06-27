@@ -1,5 +1,7 @@
-<!-- README.md Versão 1.2 -->
+<!-- README.md Versão 1.3 -->
 <h1>Prgm VETOR</h1>
+
+![GitHub all releases](https://img.shields.io/github/downloads/CPSoftwareC/VETOR.8xp/total?style=plastic)
 
 ![x,y_input](https://user-images.githubusercontent.com/67112321/100032454-f96c7380-2def-11eb-9fa3-bdda441b8d0b.png)
 
