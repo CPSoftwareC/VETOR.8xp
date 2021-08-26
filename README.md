@@ -1,50 +1,44 @@
-<!-- README.md Versão 1.3 -->
-<h1>Prgm VETOR</h1>
+# Prgm VETOR
 
 ![GitHub all releases](https://img.shields.io/github/downloads/CPSoftwareC/VETOR.8xp/total?style=plastic)
 
 ![x,y_input](https://user-images.githubusercontent.com/67112321/100032454-f96c7380-2def-11eb-9fa3-bdda441b8d0b.png)
 
-<h3>Biografia</h3>
+### Biografia
 
-<p>Desenvolvido em TI-BASIC. Uso para auxiliar o estudo da Geometria analítica no plano <strong>(Referencial <em>Oxy</em>)</strong>. Tranforma uma equação vetorial <em>[(x,y)=(a1,a2)+k(u1,u2)]</em> em uma equação afim, do tipo <em>y=ax+b</em>. Representando-a no gráfico.</p>
+Desenvolvido em TI-BASIC. Uso para auxiliar o estudo da Geometria analítica no plano (**Referencial _Oxy_**). Tranforma uma equação vetorial _[(x,y)=(a1,a2)+k(u1,u2)]_ em uma equação afim, do tipo _y=ax+b_. Representando-a no gráfico
 
-<h2>Versão <em><strong>2.3.1</strong></em></h2>
+## Versão _2.3.1_
 
-<h3>Compatibilidade</h3>
+### Compatibilidade
 
-<ul>
- <li>TI-84 Plus CE</li>
- <li>TI-84 Plus CE-T</li>
- <li>TI-84 Plus CE-T Python Edition</li>
- <li>TI-84 Plus C Silver Edition</li>
- <li>TI-83 Premium CE</li>
- <li>TI-83 Premium CE Edition Python</li>
-</ul>
+- TI-84 Plus CE
+- TI-84 Plus CE-T
+- TI-84 Plus CE-T Python Edition
+- TI-84 Plus C Silver Edition
+- TI-83 Premium CE
+- TI-83 Premium CE Edition Python
 
-<h3>Como instalar</h3>
+### Como instalar
 
-<p>Para colocar o programa na TI-84 Plus CE/TI-84 Plus CE-T necessitas do software da Texas Instruments, TI Connect™ CE. <a href="https://education.ti.com/pt/produtos/computer-software/ti-connect-ce-sw"> Download do TI Connect™ CE</a>. Depois de instalado:
-<ol>
-     <li>Plug-in a tua calculadora e abre o TI Connect CE</li>
-     <li>Envia o <em>VETOR.8xp</em></li>
-     <li>Escolhe a tua calculadora</li>
-     <li>E clica no botão <kbd>Send</kbd> ou em português <kbd>Enviar</kbd></li>
-</ol>
+Para colocar o programa na TI-84 Plus CE/TI-84 Plus CE-T necessitas do software da Texas Instruments, TI Connect™ CE. [Download do TI Connect™ CE](https://education.ti.com/pt/produtos/computer-software/ti-connect-ce-sw). Depois de instalado:
 
-<p> E agora já tens o <em>VETOR</em> na tua calculadora</p>
+1. Conecta a tua calculadora e abre o TI Connect CE
+2. Envia o _VETOR.8xp_
+3. Escolhe a tua calculadora
+4. E clica no botão <kbd>Send</kbd> ou em português <kbd>Enviar</kbd>
 
-<h3>Como executar</h3>
+E agora já tens o _VETOR_ na tua calculadora
 
-<p> Para executar o programa basta pressionar o <kbd>prgm</kbd> (Menu de programas do TI-OS) e selecionar o programa <em>VETOR</em></p>
+### Como executar
 
-<ol>
-     <li><kbd>prgm</kbd></li>
-     <li><kbd>alpha</kbd> + <kbd>6</kbd></li>
-     <li>E selecionar o <em>VETOR</em></li>
-     <li>E por ultimo pressionar <kbd>enter</kbd></li>
-</ol>
+Para executar o programa basta pressionar o <kbd>prgm</kbd> (Menu de programas do TI-OS) e selecionar o programa _VETOR_
+ 
+1. <kbd>prgm</kbd>
+2. <kbd>alpha</kbd> + <kbd>6</kbd>
+3. Selecionar o _VETOR_
+4. E por último pressionar <kbd>enter</kbd>
 
-<h2>Programador: <strong><em>J.C.P.</em></strong></h2>
+## Programador: _J.C.P._
 
-<h4><a href="http://cpsoftwarecompany.epizy.com">Website da CP Software Company</a></h4>
+#### [Website da CP Software Company](http://cpsoftwarecompany.epizy.com)
