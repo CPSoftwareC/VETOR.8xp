@@ -8,7 +8,7 @@
 
 Desenvolvido em TI-BASIC. Uso para auxiliar o estudo da Geometria analítica no plano (**Referencial _Oxy_**). Tranforma uma equação vetorial _[(x,y)=(a1,a2)+k(u1,u2)]_ em uma equação afim, do tipo _y=ax+b_. Representando-a no gráfico
 
-## Versão _2.3.1_
+## Versão _2.4_
 
 ### Compatibilidade
 
@@ -39,6 +39,6 @@ Para executar o programa basta pressionar o <kbd>prgm</kbd> (Menu de programas d
 3. Selecionar o _VETOR_
 4. E por último pressionar <kbd>enter</kbd>
 
-## Programador: _J.C.P._
+## Programador: _jp2435_
 
-#### [Website da CP Software Company](http://cpsoftwarecompany.epizy.com)
+#### [Website da CP Software](http://cpsoftware.pt)
